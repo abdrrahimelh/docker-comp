@@ -16,7 +16,7 @@ services:
       database__connection__password: example
       database__connection__database: ghost
       # this url value is just an example, and is likely wrong for your environment!
-      url: http://15.237.106.221:8080
+      url: http://35.180.173.67:8080
 
   db:
     image: mysql:5.7
